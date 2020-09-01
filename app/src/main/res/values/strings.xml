@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SeceDemoProj</string>
+    <string name="logintoyouracc">Log Into Your Account</string>
+    <string name="ForgotPassword">Forgot Password ?</string>
+    <string name="CreateAcc">Create Your Account</string>
+</resources>
